@@ -1,2 +1,5 @@
 # MyAppleScript
-Rough codes for ハラヘリコプター
+パッと思いついたスクリプト達
+
+## 各種スクリプト使い方
+感じて
